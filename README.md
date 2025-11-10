@@ -43,7 +43,7 @@
 |------|------|------------------|
 | **Pankaj Kumar Ray** | AR/VR Product Architect & Full-Stack Developer | System architecture, immersive experience design, and web platform integration |
 | **Suraj Sagar Sah** | AI Engineer | Model training, AR/VR integration, and vision algorithms |
-| **Jatin Kumar Mehta** | Brand & Experience Lead | Product strategy, UX direction, and brand identity for DripFit |
+| **Jatin Kumar Mehta** | Data Science, Brand & Experience Lead | Product strategy, UX direction, and brand identity for DripFit |
 
 ---
 
